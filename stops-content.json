@@ -1,0 +1,82 @@
+[
+  {
+    "id": "stop-01",
+    "title": "Der erste Commit am Strand",
+    "suggestedFileName": "career-coast-stop-01.mp3",
+    "suggestedVoiceStyle": "ruhig, warm, weiblich, 30-40 Jahre",
+    "pacingHints": "Langsam, mit klaren Pausen und leichter Nostalgie.",
+    "bgSoundSuggestion": "Leises Wellenrauschen, sehr dezent."
+  },
+  {
+    "id": "stop-02",
+    "title": "AI und die Welle",
+    "suggestedFileName": "career-coast-stop-02.mp3",
+    "suggestedVoiceStyle": "neutral, klar, non-binär, leicht technisch",
+    "pacingHints": "Gleichmäßig, fließend, wie eine sanfte Welle.",
+    "bgSoundSuggestion": "Leichte Synth-Pads, kühl und minimal."
+  },
+  {
+    "id": "stop-03",
+    "title": "Debugging bei Sonnenaufgang",
+    "suggestedFileName": "career-coast-stop-03.mp3",
+    "suggestedVoiceStyle": "leicht ironisch, männlich, 30-40 Jahre",
+    "pacingHints": "Lebendig, mit kleinen humorvollen Akzentuierungen.",
+    "bgSoundSuggestion": "Sanftes Morgenvogel-Ambiente, sehr zurückhaltend."
+  },
+  {
+    "id": "stop-04",
+    "title": "Die sieben Wege",
+    "suggestedFileName": "career-coast-stop-04.mp3",
+    "suggestedVoiceStyle": "ruhig, erzählerisch, weiblich, 40 Jahre",
+    "pacingHints": "Gemessen, klare Betonungen für die sieben Mini-Bilder.",
+    "bgSoundSuggestion": "Dezente atmosphärische Pads, warm und weit."
+  },
+  {
+    "id": "stop-05",
+    "title": "Wellenrauschen und Grenzen",
+    "suggestedFileName": "career-coast-stop-05.mp3",
+    "suggestedVoiceStyle": "sanft, beruhigend, non-binär",
+    "pacingHints": "Langsam, mit bewusst gesetzten Pausen.",
+    "bgSoundSuggestion": "Konstantes, sehr leises Meeresrauschen."
+  },
+  {
+    "id": "stop-06",
+    "title": "The Recruiter’s Whisper",
+    "suggestedFileName": "career-coast-stop-06.mp3",
+    "suggestedVoiceStyle": "schelmisch, männlich, 20-35 Jahre",
+    "pacingHints": "Flüsterton-Anklänge, spielerisch, nie übertrieben.",
+    "bgSoundSuggestion": "Leichter Wind, kaum hörbar."
+  },
+  {
+    "id": "stop-07",
+    "title": "Das Lagerfeuer der Beiträge",
+    "suggestedFileName": "career-coast-stop-07.mp3",
+    "suggestedVoiceStyle": "warm, erzählerisch, weiblich",
+    "pacingHints": "Ruhig, mit weichen Übergängen zwischen Bildern.",
+    "bgSoundSuggestion": "Ganz dezentes Knistern, stark reduziert."
+  },
+  {
+    "id": "stop-08",
+    "title": "Zufälle im Code",
+    "suggestedFileName": "career-coast-stop-08.mp3",
+    "suggestedVoiceStyle": "neutral, leicht staunend, non-binär",
+    "pacingHints": "Mittleres Tempo, neugierige Betonungen.",
+    "bgSoundSuggestion": "Leichte digitale Klick-Texturen, sehr subtil."
+  },
+  {
+    "id": "stop-09",
+    "title": "Wenn IDEs träumen",
+    "suggestedFileName": "career-coast-stop-09.mp3",
+    "suggestedVoiceStyle": "fantasievoll, weich, weiblich",
+    "pacingHints": "Träumerisch, mit schwebenden Satzbögen.",
+    "bgSoundSuggestion": "Sanfte Synth-Flächen, traumhaft und minimal."
+  },
+  {
+    "id": "stop-10",
+    "title": "Der nächste Schritt",
+    "suggestedFileName": "career-coast-stop-10.mp3",
+    "suggestedVoiceStyle": "inspirierend, ruhig, männlich, 35-45 Jahre",
+    "pacingHints": "Langsam, klar und motivierend.",
+    "bgSoundSuggestion": "Breite Ambient-Fläche, kaum wahrnehmbar."
+  }
+]
