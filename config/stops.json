@@ -1,0 +1,23 @@
+[
+  {
+    "id": "shoreline-prologue",
+    "title": "Shoreline Prologue",
+    "shortDescription": "Waves set the rhythm for a new career adventure.",
+    "audioFile": "/audio/shoreline-prologue.mp3",
+    "transcript": "Welcome to the Career Coast. Take a deep breath, listen to the surf, and get ready for three stories of reinvention." 
+  },
+  {
+    "id": "lighthouse-insight",
+    "title": "Lighthouse Insight",
+    "shortDescription": "A mentor’s light guides a course correction.",
+    "audioFile": "/audio/lighthouse-insight.mp3",
+    "transcript": "A former teacher finds a new calling in UX research after a chance meeting at a coastal lighthouse." 
+  },
+  {
+    "id": "pier-promise",
+    "title": "Pier of Promise",
+    "shortDescription": "Courage to launch something new from the pier.",
+    "audioFile": "/audio/pier-promise.mp3",
+    "transcript": "https://example.com/transcripts/pier-promise" 
+  }
+]
